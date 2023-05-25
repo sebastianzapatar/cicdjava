@@ -6,5 +6,6 @@ public class main {
     public static void main(String[] args) {
         Arithmetic arith = new Arithmetic(3,3);
         System.out.println(arith.add());
+        System.out.println("Hola desde el main");
     }
 }
